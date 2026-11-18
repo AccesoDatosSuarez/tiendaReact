@@ -1,0 +1,138 @@
+{
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/server.mjs": {
+    "mtime": 1793722183418.2407,
+    "hash": "1fa82ff84be1921feb8f5c51175cd79e"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/components/cart/add-to-cart.tsx": {
+    "mtime": 1793978429338.934,
+    "hash": "c1bad4ece0dec9ff7ee996e84ca2763c"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/components/cart/cart-drawer.tsx": {
+    "mtime": 1793978557672.2083,
+    "hash": "dbc2d1d2c799b24a1b10bda12b9ccbf7"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/components/footer.tsx": {
+    "mtime": 1793722011461.2751,
+    "hash": "e9f7c08c95828c6481a00eb0192a7f81"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/components/header.tsx": {
+    "mtime": 1793978450849.7168,
+    "hash": "971130f7493897597ba6dd3b39a978db"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/components/post-card.tsx": {
+    "mtime": 1793722252044.7715,
+    "hash": "28cdd860327c215e0c17125685fceedf"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/components/product-card.tsx": {
+    "mtime": 1793978447038.6025,
+    "hash": "b5f0abde79f3dd9d6897ef993283e20d"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/components/ui/badge.tsx": {
+    "mtime": 1793721851585.3398,
+    "hash": "996cd918760b0210534f38cd8c1e55f9"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/components/ui/button.tsx": {
+    "mtime": 1793721845432.7307,
+    "hash": "56e36096a8d306836e223c7f215c197b"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/components/ui/card.tsx": {
+    "mtime": 1793721856972.913,
+    "hash": "8f0d4cc2a3f84dd37072ffa923cce0b0"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/components/ui/select.tsx": {
+    "mtime": 1793723487189.7158,
+    "hash": "720376dc86c7534101d04e619bf957ac"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/data/posts.ts": {
+    "mtime": 1793977271646.876,
+    "hash": "d6557099d4dbed77ff56399dd5625422"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/data/products.ts": {
+    "mtime": 1793721906574.4626,
+    "hash": "d2d96cb496aa3b005bc9d35da9900dc7"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/lib/cart-store.ts": {
+    "mtime": 1793978582834.1714,
+    "hash": "d41c88b40e8638dc53b1608137a799f8"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/lib/format.ts": {
+    "mtime": 1793978397000.3254,
+    "hash": "ca465616fa98f8c5006681c94e2fc0a8"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/lib/utils.ts": {
+    "mtime": 1793723487192.3684,
+    "hash": "0482d21cfeab8cfcfe44f94927e45afb"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/main.tsx": {
+    "mtime": 1793722041775.7356,
+    "hash": "45b43d5a699fd28d7e064f3e5d5228ce"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routeTree.gen.ts": {
+    "mtime": 1793978520555.509,
+    "hash": "047cb97693f6afdde8b3ba9036993ae8"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routes/__root.tsx": {
+    "mtime": 1793722038180.1272,
+    "hash": "cc5c04d67cbe4040d98462c8c18f60ab"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routes/blog/$slug.tsx": {
+    "mtime": 1793722252044.7715,
+    "hash": "502ab1d3a727992676b30da6b6f821e0"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routes/blog/index.tsx": {
+    "mtime": 1793722099440.3242,
+    "hash": "1713b0df31ec1459ff3d5b5b7a44a0b5"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routes/contacto.tsx": {
+    "mtime": 1793722147703.9546,
+    "hash": "ed7b6ff603cee85d5eb8db9e3e8b68d5"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routes/index.tsx": {
+    "mtime": 1793724389446.7727,
+    "hash": "872d7bcbf753c311e9004043b721ccf9"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routes/legal.tsx": {
+    "mtime": 1793722177135.85,
+    "hash": "f60b8e29304c4e71df66a12a82d64709"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routes/nosotros.tsx": {
+    "mtime": 1793722233088.0728,
+    "hash": "c7c1cae03fd1d84b8b75dcca7bebba00"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routes/tienda/$slug.tsx": {
+    "mtime": 1793978536511.7505,
+    "hash": "6bc71a8012a7e51564d37f866c84d599"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routes/tienda/checkout.tsx": {
+    "mtime": 1793978502662.8074,
+    "hash": "75293786a3764ccfdd24740f6c59ad6d"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routes/tienda/index.tsx": {
+    "mtime": 1793722077870.255,
+    "hash": "9e7e81d380889fad5a94dbd1b7ee8b01"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/src/routes/tienda/pedido-confirmado.tsx": {
+    "mtime": 1793978589361.5054,
+    "hash": "be144795b72b484f2fd8ae3db0dc0ec1"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/vite.config.ts": {
+    "mtime": 1793722221289.8296,
+    "hash": "ce4efb2bba2d3cf11212fcfde07529aa"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/AGENTS.md": {
+    "mtime": 1793976293449.1199,
+    "hash": "f36539ecc9af68f33ebd72770ce4a19e"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/README.md": {
+    "mtime": 1793722201018.1733,
+    "hash": "59d9aef38ef77b36516eb638b44a54eb"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/index.html": {
+    "mtime": 1793721776608.065,
+    "hash": "12240e13383942cf4fde3892563ae5e4"
+  },
+  "C:/Users/usuario/Documents/Pablo/Developer/opentest/public/vite.svg": {
+    "mtime": 1793722187183.595,
+    "hash": "044d90f52a3f36859ca8684ac38b5384"
+  }
+}

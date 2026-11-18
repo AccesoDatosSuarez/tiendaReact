@@ -1,0 +1,20 @@
+{
+  "0": "Badge",
+  "1": "routeTree.gen.ts",
+  "2": "badge.tsx",
+  "3": "compilerOptions",
+  "4": "components.json",
+  "5": "compilerOptions",
+  "6": "dependencies",
+  "7": "package.json",
+  "8": "select.tsx",
+  "9": "devDependencies",
+  "10": "server.mjs",
+  "11": "🌿 Herbolario Raíz",
+  "12": "tsconfig.json",
+  "13": "scripts",
+  "14": "AGENTS.md",
+  "15": "@types/node@^24.7.2",
+  "16": "@types/react-dom@^19.2.2",
+  "17": "typescript@^5.9.3"
+}
